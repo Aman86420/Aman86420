@@ -69,3 +69,21 @@
   </a>
   <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="4
+
+    ## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ISHANSHIRODE01&show_icons=true&theme=github_dark&hide=stars&count_private=true" height="165">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ISHANSHIRODE01&theme=github-dark-blue&hide_border=true" height="165" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ISHANSHIRODE01&layout=compact&theme=github_dark&langs_count=6" height="165" />
+</p>
+
+<!-- Optional: Profile views badge -->
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=ISHANSHIRODE01&style=flat-square&color=blue" alt="Profile views" />
+</p>
+
+---
